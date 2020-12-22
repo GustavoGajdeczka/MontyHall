@@ -1,4 +1,4 @@
-# montyhall
+# MontyHall
 
 ## Project setup
 ```
